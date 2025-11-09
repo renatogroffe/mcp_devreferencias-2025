@@ -11,3 +11,5 @@ Referências:
 - MCP para SQL Server: https://github.com/renatogroffe/sqlserver-mcp-dotnet-tool-scripts
 - OWASP Top 10 for Large Language Model Applications: https://owasp.org/www-project-top-10-for-large-language-model-applications/
 - MCP Servers no Visual Studio Code: https://code.visualstudio.com/docs/copilot/customization/mcp-servers
+
+Gravação da apresentação no YouTube: https://www.youtube.com/watch?v=NBLKVI30OMk
